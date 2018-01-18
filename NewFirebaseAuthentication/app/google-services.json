@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "956883215519",
+    "firebase_url": "https://authenticationdemo-63f35.firebaseio.com",
+    "project_id": "authenticationdemo-63f35",
+    "storage_bucket": "authenticationdemo-63f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956883215519:android:fc2abed5f58d9089",
+        "android_client_info": {
+          "package_name": "com.ptit.pakandroid.kentran.newfirebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956883215519-648vd148k5a8adql19p5gvjt74uqpbth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmZoDWwN1u622yavwSWNAS4fb9T77Pek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956883215519:android:87b6f488e69014d4",
+        "android_client_info": {
+          "package_name": "com.ptit.pakandroid.kentran97.newfirebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956883215519-648vd148k5a8adql19p5gvjt74uqpbth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmZoDWwN1u622yavwSWNAS4fb9T77Pek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
