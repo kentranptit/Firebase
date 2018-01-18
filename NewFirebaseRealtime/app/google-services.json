@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "435421874832",
+    "firebase_url": "https://realtimedemo-1af14.firebaseio.com",
+    "project_id": "realtimedemo-1af14",
+    "storage_bucket": "realtimedemo-1af14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435421874832:android:3cfdf704a5e7585b",
+        "android_client_info": {
+          "package_name": "com.ptit.pakandroid.kentran.newfirebaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435421874832-acpvs2qlsuk386flblmsjo58fs9ev0t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5XwyuTgkVPjS-equ6It2uBspQw9GKlM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435421874832:android:fab3923146811460",
+        "android_client_info": {
+          "package_name": "com.ptit.pakandroid.kentran97.newfirebaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435421874832-acpvs2qlsuk386flblmsjo58fs9ev0t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5XwyuTgkVPjS-equ6It2uBspQw9GKlM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
