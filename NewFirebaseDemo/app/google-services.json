@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "457821136275",
+    "firebase_url": "https://fir-demo-a23bb.firebaseio.com",
+    "project_id": "fir-demo-a23bb",
+    "storage_bucket": "fir-demo-a23bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457821136275:android:64baf8993c9c28a2",
+        "android_client_info": {
+          "package_name": "com.ptit.pakandroid.kentran.newfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457821136275-2s433h1tjnn7m0fojhls2tugjd4b4ttl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKC89HlnQ5OWf0LiQl-XlLS503yOwfn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457821136275:android:b14d30d7bfad5067",
+        "android_client_info": {
+          "package_name": "com.ptit.pakandroid.kentran97.newfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457821136275-2s433h1tjnn7m0fojhls2tugjd4b4ttl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKC89HlnQ5OWf0LiQl-XlLS503yOwfn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
