@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "727006831282",
+    "firebase_url": "https://savefile-be56c.firebaseio.com",
+    "project_id": "savefile-be56c",
+    "storage_bucket": "savefile-be56c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727006831282:android:d79a677536ff3aab",
+        "android_client_info": {
+          "package_name": "com.ptit.pakandroid.kentran97.newfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727006831282-vgnn33lhlsj215u4pg534i7f8qkkqdec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPIDu1CKpvN0zWe8DFSW2G9hTU5-rKoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
